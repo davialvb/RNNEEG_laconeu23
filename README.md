@@ -12,9 +12,22 @@ The [dataset](https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognit
 
 ![image](https://user-images.githubusercontent.com/34287081/213930467-02740cee-107d-40ef-bbcb-0ed6f071ada4.png)
 
+## Laconeu 2023
+
+Project developed during the Latin American Summer School in Computational Neuroscience 2023.
+
+<img src="https://user-images.githubusercontent.com/34287081/213933757-3de46318-cd90-417b-8b10-274b8d78e248.png" width="100" height="100" title="AC3E"><img src="https://user-images.githubusercontent.com/34287081/213934159-1c039b12-be04-491e-9270-f843c7ac6914.png" width="100" height="100" title="CINV">
+<img src="https://user-images.githubusercontent.com/34287081/213934068-cb15825f-12dd-47fb-81da-6501a3272857.png" width="100" height="100" title="ICTP">
+<img src="https://user-images.githubusercontent.com/34287081/213934198-5327509d-d377-4b4a-9212-8cc2e9537ed9.png" width="100" height="100" title="IBRO">
+
 
 ## Team
+
 ![image](https://user-images.githubusercontent.com/34287081/213763502-f9a8a7cb-5872-4047-a898-33cd571932b5.png)
+
+
+
+
 
 ## Install all dependencies
 ```
