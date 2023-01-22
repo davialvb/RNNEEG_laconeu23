@@ -1,7 +1,7 @@
 # Using simulated EEGs to train RNN and analyze real data
 ## The influence of potassium reversal potential on seizure
 
-From synthetic data, we train a Recurrent Neural Network (RNN) to model the sequence of an electroencephalogram (EEG). We generated the training samples from the open-source simulation package of biological neural networks [NetPyNE](http://www.netpyne.org/index.html). Using NetPyNE, we modified some parameters at the cellular level of the brain. The K+ concentration in the extracellular space is one of the best described examples in seizures ion dinamics. 
+From synthetic data, we train a vanilla Recurrent Neural Network (RNN) to model the sequence of an electroencephalogram (EEG). We generated the training samples from the open-source simulation package of biological neural networks [NetPyNE](http://www.netpyne.org/index.html). Using NetPyNE, we modified some parameters at the cellular level of the brain. The K+ concentration in the extracellular space is one of the best described examples in seizures ion dinamics. 
 
 ![image](https://user-images.githubusercontent.com/34287081/213928200-de794f81-f84c-492d-aeb1-9ea206bfd1ed.png)
 
