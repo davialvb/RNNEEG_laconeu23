@@ -1,7 +1,7 @@
 # Using simulated EEGs to train RNN and analyze real data
 ## The influence of potassium reversal potential on seizure
 
-From synthetic data, we train a vanilla Recurrent Neural Network (RNN) to model the sequence of an electroencephalogram (EEG). We generated the training samples from the open-source simulation package of biological neural networks [NetPyNE](http://www.netpyne.org/index.html). Using NetPyNE, we modified some parameters at the cellular level of the brain. The K+ concentration in the extracellular space is one of the best described examples in seizures ion dinamics. 
+From synthetic data, we trained a vanilla Recurrent Neural Network (RNN) to model the sequence of an electroencephalogram (EEG). We generated the training samples from the open-source simulation package of biological neural networks [NetPyNE](http://www.netpyne.org/index.html). Using NetPyNE, we modified some parameters at the cellular level of the brain. The K+ concentration in the extracellular space is one of the best described examples in seizures ion dinamics ([Raimondo et al., 2015](https://www.frontiersin.org/articles/10.3389/fncel.2015.00419/full)). 
 
 ![image](https://user-images.githubusercontent.com/34287081/213928200-de794f81-f84c-492d-aeb1-9ea206bfd1ed.png)
 
@@ -27,7 +27,9 @@ Project developed during the Latin American Summer School in Computational Neuro
 
 
 
-
+## References:
+Raimondo, J. V., Burman, R. J., Katz, A. A., & Akerman, C. J. (2015). Ion dynamics during seizures. Frontiers in cellular neuroscience, 9, 419.
+Andrzejak, R. G., Lehnertz, K., Mormann, F., Rieke, C., David, P., & Elger, C. E. (2001). Indications of nonlinear deterministic and finite-dimensional structures in time series of brain electrical activity: Dependence on recording region and brain state. Physical Review E, 64(6), 061907.
 
 ## Install all dependencies
 ```
